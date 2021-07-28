@@ -78,6 +78,7 @@
   * Computer Vision or Image Processing Applications.
   * Speech Recognitions
 
-
+#### Python Applications
+![python-applications](https://static.javatpoint.com/python/images/python-applications.png "python-applications")
   
   
