@@ -80,5 +80,6 @@
 
 #### Python Applications
 ![python-applications](https://static.javatpoint.com/python/images/python-applications.png "python-applications")
-  
+
+* FOr MOre info : https://www.javatpoint.com/python-applications
   
